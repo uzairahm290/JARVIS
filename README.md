@@ -1,1 +1,3 @@
 # JARVIS
+
+A Python assistant 
